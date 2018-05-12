@@ -42,6 +42,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34177
     wikipedia: http://en.wikipedia.org/wiki/Peter_Christen_Asbj%C3%B8rnsen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29796#Norwegische-Volksm-hrchen-I.gesammelt-von-P.-Asbj-rnsen-und-J-rgen-Moe
 gutenberg_bookshelf: DE Kinderbuch
 gutenberg_issued: '2009-08-25'
 gutenberg_type: Text
